@@ -1,7 +1,7 @@
 # Walmart-Sales-Forecast
 Analysis and forecasting of Walmart weekly sales using historical data and Excel
 
-**Objective:**
+**Project Objective:**
 The goal of this project is to analyze historical Walmart sales data and forecast weekly sales for each store and department. This helps in inventory management, marketing decisions, and planning for holiday and non-holiday periods.
 
 **Datasets Used:**
